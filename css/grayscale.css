@@ -115,7 +115,7 @@ a {
       font-size: 18px; }
   @media (min-width: 768px) {
     .masthead {
-      height: 100%;
+       height: auto;
       padding: 0; }
       .masthead .intro-body .brand-heading {
         font-size: 100px; }
